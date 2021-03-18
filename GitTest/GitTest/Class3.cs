@@ -6,6 +6,7 @@ namespace GitTest
 {
     class Class3
     {
-        int z = 0;
+
+        int x = 1;
     }
 }
