@@ -6,7 +6,8 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Raluca! (local change)");
+            Console.WriteLine("Hello Raluca!");
+
         }
     }
 }
